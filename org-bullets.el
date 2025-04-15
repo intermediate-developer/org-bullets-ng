@@ -37,10 +37,10 @@
 ;; http://nadeausoftware.com/articles/2007/11/latency_friendly_customized_bullets_using_unicode_characters
 (defcustom org-bullets-bullet-list
   '(;;; Large
-    "◉"
-    "○"
-    "✸"
-    "✿"
+    "🔴"
+    "⭕"
+    "⭐"
+    "💮"
     ;; ♥ ● ◇ ✚ ✜ ☯ ◆ ♠ ♣ ♦ ☢ ❀ ◆ ◖ ▶
     ;;; Small
     ;; ► • ★ ▸
